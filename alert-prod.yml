@@ -1,1 +1,11 @@
-
+build:
+ version: "1.0"
+ 
+users:
+ message: "Welcome to alert Microservices"
+ contactDetails:
+  name: "alert micro shashank manoj tiwari ujjain sakshi rishinagar"
+  email: "alert.shashank.tiwari@impetus.com"
+ onCallSupport:
+  -(91) 9988998789
+  -(91) 9980989009
