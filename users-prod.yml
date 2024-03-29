@@ -1,0 +1,17 @@
+spring:
+ application:
+  name: "users"
+  profiles:
+   active: "prod"
+   
+build:
+ version: "1.0"
+ 
+users:
+ message: "Welcome to users Microservices"
+ contact:
+  name: "shashank"
+  email: "shashank.tiwari@impetus.com"
+ onCallSupport:
+  -(91) 9988998789
+  -(91) 9980989009
