@@ -1,7 +1,3 @@
-spring:
- application:
-  name: "users"
-   
 build:
  version: "1.0"
  
