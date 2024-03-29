@@ -3,7 +3,7 @@ build:
  
 users:
  message: "Welcome to users Microservices"
- contact:
+ contactDetails:
   name: "shashank manoj tiwari ujjain sakshi"
   email: "shashank.tiwari@impetus.com"
  onCallSupport:
