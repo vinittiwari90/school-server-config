@@ -4,7 +4,7 @@ build:
 users:
  message: "Welcome to users Microservices"
  contactDetails:
-  name: "prod dev connect to"
+  name: "prod dev connect to user service"
   email: "shashank.tiwari@impetus.com"
  onCallSupport:
   -(91) 9988998789
