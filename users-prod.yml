@@ -4,7 +4,7 @@ build:
 users:
  message: "Welcome to users Microservices"
  contactDetails:
-  name: "shashank manoj tiwari ujjain sakshi rishinagar"
+  name: "prod dev connect to"
   email: "shashank.tiwari@impetus.com"
  onCallSupport:
   -(91) 9988998789
