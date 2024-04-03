@@ -1,7 +1,7 @@
 build:
  version: "1.0"
  
-users:
+alert:
  message: "Welcome to alert Microservices"
  contactDetails:
   name: "alert micro shashank manoj tiwari ujjain sakshi rishinagar"
